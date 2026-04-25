@@ -534,7 +534,11 @@ function App() {
               </div>
             </div>
             <div className="col-md-5 text-md-end">
-              <div className="small text-muted">© {new Date().getFullYear()} Sri Shanmuga Metal Mart. All rights reserved.</div>
+              <div className="small text-muted mb-2">© {new Date().getFullYear()} Sri Shanmuga Metal Mart. All rights reserved.</div>
+              <img 
+                src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsrishanmugametalmart.com&count_bg=%23B45309&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true" 
+                alt="Site Visitors" 
+              />
             </div>
           </div>
         </div>
